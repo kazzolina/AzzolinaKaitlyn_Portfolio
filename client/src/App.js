@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div>
+
       {(typeof backendData.users === 'undefined') ? (
         <p>Loading...</p>
       ) : (
@@ -24,6 +25,7 @@ function App() {
           <p key={i}>{user}</p>
         ))
       )}
+
     </div>
   )
 }
