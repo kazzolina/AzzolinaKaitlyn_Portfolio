@@ -1,4 +1,4 @@
-# Kaitlyn Azzolina - Profolio Project
+# Kaitlyn Azzolina - Portfolio Project
 
 **Authors:** Kaitlyn Azzolina
 
